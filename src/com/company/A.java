@@ -7,5 +7,6 @@ public class A {
         //Branch 1 :2nd commit
         //Branch 1 :3rd commit
         //Branch 1 :4rth commit
+        //Branch 2: 1st commit
     }
 }
