@@ -2,7 +2,8 @@ package com.company;
 
 public class A {
     void m1(){
-        System.out.println("");
-        //Branch 1 crested
+        System.out.println("xxx");
+        //Branch 1 :crested
+        //Branch 1 :2nd commit
     }
 }
